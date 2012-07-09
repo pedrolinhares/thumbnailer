@@ -32,7 +32,8 @@ Gem::Specification.new do |s|
     "spec/resources/file.odt",
     "spec/resources/file.pdf",
     "spec/spec_helper.rb",
-    "spec/thumbnailer_spec.rb"
+    "spec/thumbnailer_spec.rb",
+    "thumbnailer.gemspec"
   ]
   s.homepage = "http://github.com/pedrolinhares/thumbnailer"
   s.licenses = ["MIT"]
