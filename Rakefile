@@ -14,7 +14,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "thumbnailer"
+  gem.name = "doc-thumbnailer"
   gem.homepage = "http://github.com/pedrolinhares/thumbnailer"
   gem.license = "MIT"
   gem.summary = "Generate thumbnails for document files"
