@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "thumbnailer"
   gem.homepage = "http://github.com/pedrolinhares/thumbnailer"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Generate thumbnails for document files"
+  gem.description = "Generate thumbnails for document files"
   gem.email = "pedrolmota@gmail.com"
   gem.authors = ["Pedro Henrique Linhares"]
   # dependencies defined in Gemfile
